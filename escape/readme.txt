@@ -1,3 +1,5 @@
+I am learning to code in python by making a game. I am sharing everything I am learning by following along this book.
+
 This folder contains the code, images and sounds for the book Mission Python by Sean McManus
 
 Code and sound effects by Sean McManus (www.sean.co.uk)
