@@ -4,4 +4,4 @@ player_x = 600
 payer_y = 350
 
 def draw():
-    screen.blit(images.backdrop, (0, 0))
+    screen.blit(images.backdrop, (10, 0))
